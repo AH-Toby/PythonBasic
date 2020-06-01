@@ -1,28 +1,48 @@
-#  PythonBasic
+# PythonBasic
 
 python基础知识部分资源来源于自我收集和整理,若有侵权请留言！
 
-## python基础知识
+## 1.python基础知识
 
-[1.计算机基础知识](./book/python基础知识/1.计算机基础知识.md)
+[1.计算机基础知识](./book/1.python基础知识/1.计算机基础知识.md)
 
-[2.认识python](./book/python基础知识/2.认识python.md)
+[2.认识python](./book/1.python基础知识/2.认识python.md)
 
-[3.第一个python程序](./book/python基础知识/3.第一个python程序.md)
+[3.第一个python程序](./book/1.python基础知识/3.第一个python程序.md)
 
-[4.注释](./book/python基础知识/4.注释.md)
+[4.注释](./book/1.python基础知识/4.注释.md)
 
-[5.变量和数据类型](./book/python基础知识/5.变量和数据类型.md)
+[5.变量和数据类型](./book/1.python基础知识/5.变量和数据类型.md)
 
-[6.标识符和关键词](./book/python基础知识/6.标识符和关键词.md)
+[6.标识符和关键词](./book/1.python基础知识/6.标识符和关键词.md)
 
-[7.输出](./book/python基础知识/7.输出.md)
+[7.输出](./book/1.python基础知识/7.输出.md)
 
-[8.输入](./book/python基础知识/8.输入.md)
+[8.输入](./book/1.python基础知识/8.输入.md)
 
-[9.运算符](./book/python基础知识/9.运算符.md)
+[9.运算符](./book/1.python基础知识/9.运算符.md)
 
-[10.数据类型转换](./book/python基础知识/10.数据类型转换.md)
+[10.数据类型转换](./book/1.python基础知识/10.数据类型转换.md)
 
+## 2.python基本语法
 
+[1.判断语法if](./book/2.python基本语法/1.判断语法if.md)
+
+[2.判断语法if-else](./book/2.python基本语法/2.判断语法if-else.md)
+
+[3.判断语法elif](./book/2.python基本语法/3.判断语法elif.md)
+
+[4.判断语法if嵌套](./book/2.python基本语法/4.判断语法if嵌套.md)
+
+[5.判断语法补充知识](./book/2.python基本语法/5.判断语法补充知识.md)
+
+[6.判断语法比较、关系运算符](./book/2.python基本语法/6.判断语法比较、关系运算符.md)
+
+[7.循环语法while](./book/2.python基本语法/7.循环语法while.md)
+
+[8.循环语法break和continue](./book/2.python基本语法/8.循环语法break和continue.md)
+
+[9.循环语法while嵌套](./book/2.python基本语法/9.循环语法while嵌套.md)
+
+[10.循环语法for](./book/2.python基本语法/10.循环语法for.md)
 
