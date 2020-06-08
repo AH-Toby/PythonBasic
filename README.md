@@ -61,6 +61,7 @@ python基础知识部分资源来源于自我收集和整理,若有侵权请留�
 [6.公共方法](./book/3.python基本数据类型/6.公共方法.md)
 
 ## 4.python函数（一）
+
 [1.函数介绍](./book/4.python函数（一）/1.函数介绍.md)
 
 [2.函数的参数](./book/4.python函数（一）/2.函数的参数.md)
@@ -70,4 +71,15 @@ python基础知识部分资源来源于自我收集和整理,若有侵权请留�
 [4.函数的嵌套调用](./book/4.python函数（一）/4.函数的嵌套调用.md)
 
 
+
+## 5.python函数（二）
+[1.python函数中的变量](./book/5.python函数（二）/1.python函数的变量.md)
+
+[2.python函数的特性](./book/5.python函数（二）/2.python函数的特性.md)
+
+[3.python函数的特殊化处理](./book/5.python函数（二）/3.python函数的特殊化处理.md)
+
+[4.python函数内存知识补充](./book/5.python函数（二）/4.python函数内存知识补充.md)
+
+[5.python函数使用注意事项](./book/5.python函数（二）/5.python函数使用注意事项.md)
 
