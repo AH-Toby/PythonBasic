@@ -83,3 +83,21 @@ python基础知识部分资源来源于自我收集和整理,若有侵权请留�
 
 [5.python函数使用注意事项](./book/5.python函数（二）/5.python函数使用注意事项.md)
 
+
+
+# 6.python补充知识
+
+[1.递归函数和匿名函数](./book/6.python知识扩充/1.递归函数和匿名函数.md)
+
+[2.python推导式](./book/6.python知识扩充/2.python推导式.md)
+
+[3.set、list、tuple](./book/6.python知识扩充/3.set、list、tuple.md)
+
+[4.其他补充](./book/6.python知识扩充/4.其他补充.md)
+
+# 7.python文件IO流
+
+[1.python文件操作](./book/7.python文件IO流/1.python文件操作.md)
+
+[2.python文件和文件夹操作](./book/7.python文件IO流/2.文件和文件夹操作.md)
+
