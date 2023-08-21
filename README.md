@@ -1,6 +1,6 @@
 # PythonBasic
 
-![python](./book/src/4.函数（一）/u=1704975874,266054118&fm=26&gp=0.jpg)
+![u=1704975874,266054118&fm=26&gp=0](https://raw.githubusercontent.com/AH-Toby/ImageStorage/master/ImageStorageu%253D1704975874%252C266054118%2526fm%253D26%2526gp%253D0.jpg)
 
 python基础知识部分资源来源于自我收集和学习笔记,若有侵权请留言！
 
