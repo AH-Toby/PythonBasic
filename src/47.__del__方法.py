@@ -23,21 +23,19 @@ taidamier = Hero("泰达米尔")
 
 # 删除对象
 print("%d 被删除1次" % id(taidamier))
-del(taidamier)
-
+del (taidamier)
 
 print("--" * 10)
-
 
 gailun = Hero("盖伦")
 gailun1 = gailun
 gailun2 = gailun
 
 print("%d 被删除1次" % id(gailun))
-del(gailun)
+del (gailun)
 
 print("%d 被删除1次" % id(gailun1))
-del(gailun1)
+del (gailun1)
 
 print("%d 被删除1次" % id(gailun2))
-del(gailun2)
+del (gailun2)
